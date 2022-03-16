@@ -15,7 +15,7 @@ async def start(client,message):
           InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ👨‍💻" ,url="https://t.me/renamermax_robot_support"), 
 	  InlineKeyboardButton("Uᴘᴅᴀᴛᴇꜱ📄" , url="https://t.me/renamermax_robot_Updates")
           ],[
-          InlineKeyboardButton("⚡Dev⚡", url="https://t.me/JawRipper")
+          InlineKeyboardButton("⚡Dᴇᴠ⚡", url="https://t.me/JawRipper")
           ]]
           )
         )
